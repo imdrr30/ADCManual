@@ -1,3 +1,4 @@
+clear;close;clc;
 num_samples = 2^13;
 fs=5000;
 Ts=1/fs;
