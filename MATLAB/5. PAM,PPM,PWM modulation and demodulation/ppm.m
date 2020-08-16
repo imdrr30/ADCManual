@@ -1,4 +1,4 @@
-clear;
+clear;close;clc;
 fc=100;
 fs=1000;
 f1=80;
