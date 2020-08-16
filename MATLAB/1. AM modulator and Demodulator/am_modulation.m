@@ -1,3 +1,4 @@
+clear;close;clc;
 t=0:0.001:1;
 vm=5;
 vc=10;
