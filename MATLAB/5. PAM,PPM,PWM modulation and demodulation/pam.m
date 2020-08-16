@@ -1,4 +1,4 @@
-clear;
+clear;close;clc;
 t = 0 : 1/1e3 : 10;% 1 kHz sample freq for 1 sec 
 d = 0 : 1/5 : 10;
 x = 5+sin(2*pi/4*2*t);        %message signal
