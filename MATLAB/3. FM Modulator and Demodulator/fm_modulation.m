@@ -1,4 +1,3 @@
-clear;close;clc;
 fm=25;
 fc=400;
 mf=10;

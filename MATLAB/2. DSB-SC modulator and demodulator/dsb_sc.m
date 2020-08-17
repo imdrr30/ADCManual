@@ -1,4 +1,3 @@
-clear;close;clc;
 N = 1024; %N point FFT N>fc to avoid freq domain aliasing
 fs = 4096; % Sample frequency
 t = (0:N-1)/fs;
